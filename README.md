@@ -1,6 +1,7 @@
 # GRE Issue Writing & Expression Training
 
 一个面向 GRE Issue 写作的 Codex skill，短练习为主，适用于写作能力恢复训练
+
 以锻炼问题分析、逻辑构思、英文遣词能力为主
 
 ## 功能

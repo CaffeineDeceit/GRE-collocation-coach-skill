@@ -1,0 +1,4 @@
+interface:
+  display_name: "GRE Issue Writing Coach"
+  short_description: "Practice GRE Issue reasoning and expression"
+  default_prompt: "Start a new GRE Issue Argument Generation round."
